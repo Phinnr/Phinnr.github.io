@@ -3,11 +3,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: "home"
 
-title: "Keiyoushi"
+title: "Phinnr"
 description: "Extension repository for Mihon and variants."
 
 hero:
-  name: "Keiyoushi"
+  name: "Phinnr"
   text: ""
   tagline: "Extension repository for Mihon and variants."
   actions:
